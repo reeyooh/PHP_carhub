@@ -8,7 +8,7 @@ class dboperation
         $this->con = mysqli_connect(
             "localhost",              // IMPORTANT (InfinityFree uses localhost)
             "if0_41835845",           // your DB username
-            "YOUR_PASSWORD",          // your DB password
+            "InfinitycarhubF",          // your DB password
             "if0_41835845_carhub"     // your DB name
         );
 
